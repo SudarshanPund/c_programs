@@ -1,0 +1,6 @@
+E:\C Progarming\compuworld\Untitled4.c	In function 'factcal':
+18	2	E:\C Progarming\compuworld\Untitled4.c	[Error] 'count' undeclared (first use in this function)
+18	2	E:\C Progarming\compuworld\Untitled4.c	[Note] each undeclared identifier is reported only once for each function it appears in
+20	37	E:\C Progarming\compuworld\Untitled4.c	[Error] 'num' undeclared (first use in this function)
+20	41	E:\C Progarming\compuworld\Untitled4.c	[Error] 'fact' undeclared (first use in this function)
+28		E:\C Progarming\compuworld\Makefile.win	recipe for target 'Untitled4.o' failed
